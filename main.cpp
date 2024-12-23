@@ -17,7 +17,6 @@ int main()
     string hari;
     int jamAwal;
     int jamAkhir;
-/*
     int i;
     for (i = 3; i <= 5;i++){
         infoHari(H).jam[i] = true;
@@ -32,7 +31,7 @@ int main()
     cout << "Sampai jam berapa? ";
     cin >> jamAkhir;
 
-    cekSediaKelasRekursif(LK, kelas, hari, jamAwal, jamAkhir);*/
+    cekSediaKelasRekursif(LK, kelas, hari, jamAwal, jamAkhir);
 
 
 
